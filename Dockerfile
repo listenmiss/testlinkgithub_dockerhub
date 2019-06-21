@@ -1,3 +1,3 @@
 FROM centos
 ENV name Docker
-ENTRYPOINT echo "hello $name"
+ENTRYPOINT echo "hello world $name"
